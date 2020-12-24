@@ -1,0 +1,47 @@
+body
+	{
+		background-color:#FCA57F;
+		font-family: 'Kaushan Script', cursive;
+	}
+
+h1
+
+	{
+		background-color: coral;
+		color: white;
+		font-family: 'Kaushan Script', cursive;
+		text-allign: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 25px;
+		padding: 10px;
+		
+	}
+
+h2	
+
+	{
+		background-color: coral;
+		color: white;
+		font-family: 'Kaushan Script', cursive;
+		text-allign: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 25px;
+		padding: 10px;
+		
+	}
+
+h3	
+
+	{
+		background-color: coral;
+		color: black;
+		font-family: 'Kaushan Script', cursive;
+		text-allign: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 10px;
+		padding: 5px;
+		
+	}
